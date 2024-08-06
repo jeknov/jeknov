@@ -9,10 +9,10 @@ I'm Jekaterina Novikova, the AI/NLP researcher. I am studying computational mode
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jnovikova)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/J_Novikova_NLP) 
 [![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.ca/citations?user=C75JskwAAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jekaterina-Novikova-2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jnovikova)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/J_Novikova_NLP) 
 [![Website](https://img.shields.io/badge/Website-%23121011.svg?logo=google-chrome&logoColor=white)](https://jeknov.github.io)
 
 
