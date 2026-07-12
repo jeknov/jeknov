@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Jekaterina Novikova, the AI Scientist. I am studying computational models of natural language. My research interests include natural language generation and evaluation, ML for health, and trustworthy AI.
+I'm Jekaterina Novikova, an AI researcher specializing in evaluation and reliability of foundation models - the science of knowing when language models can be trusted, and catching them when they can’t.
 
 ## 🧐 Research
 - 🤨 I’m currently working on improving trustworthiness and reliability of LLMs.
